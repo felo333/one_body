@@ -1,0 +1,12 @@
+com.example.one_body.app-jetified-window-1.0.0-beta04-0 /Users/bigsur/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.one_body.app-jetified-annotation-experimental-1.1.0-1 /Users/bigsur/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.one_body.app-core-1.6.0-2 /Users/bigsur/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.one_body.app-jetified-window-java-1.0.0-beta04-3 /Users/bigsur/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.one_body.app-debug-4 /Users/bigsur/StudioProjects/one_body/android/app/src/debug/res
+com.example.one_body.app-main-5 /Users/bigsur/StudioProjects/one_body/android/app/src/main/res
+com.example.one_body.app-pngs-6 /Users/bigsur/StudioProjects/one_body/build/app/generated/res/pngs/debug
+com.example.one_body.app-resValues-7 /Users/bigsur/StudioProjects/one_body/build/app/generated/res/resValues/debug
+com.example.one_body.app-rs-8 /Users/bigsur/StudioProjects/one_body/build/app/generated/res/rs/debug
+com.example.one_body.app-mergeDebugResources-9 /Users/bigsur/StudioProjects/one_body/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.one_body.app-mergeDebugResources-10 /Users/bigsur/StudioProjects/one_body/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.one_body.app-merged_res-11 /Users/bigsur/StudioProjects/one_body/build/app/intermediates/merged_res/debug
