@@ -8,7 +8,7 @@ class Login extends StatefulWidget {
 
 Color? red = Colors.red;
 Color? purple = Colors.purple;
-var nationalNumberScreen=true;
+bool nationalNumberScreen = true;
 TextEditingController username = TextEditingController();
 TextEditingController password = TextEditingController();
 TextEditingController nationalNumber = TextEditingController();
