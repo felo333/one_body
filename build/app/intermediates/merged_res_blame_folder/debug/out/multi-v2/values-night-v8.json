@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.one_body.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.one_body.app-mergeDebugResources-12:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/bigsur/Desktop/one_body/android/app/src/main/res/values-night/styles.xml",
