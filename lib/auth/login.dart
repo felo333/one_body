@@ -5,9 +5,9 @@ class Login extends StatefulWidget {
   @override
   State<Login> createState() => _LoginState();
 }
+
 Color? red = Colors.red;
 Color? purple = Colors.purple;
-Color? switchColor = Colors.purple;
 var nationalNumberScreen=true;
 TextEditingController username = TextEditingController();
 TextEditingController password = TextEditingController();
