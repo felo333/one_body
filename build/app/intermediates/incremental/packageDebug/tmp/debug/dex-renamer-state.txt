@@ -1,4 +1,4 @@
-#Mon Aug 07 06:00:40 EET 2023
-base.0=/Users/bigsur/StudioProjects/one_body/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Aug 07 06:53:16 EET 2023
+base.0=/Users/bigsur/Desktop/one_body/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
