@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.one_body.app-mergeDebugResources-12:/values-v16/values-v16.xml",
+            "outputFile": "com.example.one_body.app-mergeDebugResources-14:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/bigsur/.gradle/caches/transforms-3/03204e7a863cd68980f40b7d5a3e5e44/transformed/core-1.6.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/bigsur/.gradle/caches/transforms-3/a7e7071e5260490419dce2b68196a7b9/transformed/core-1.6.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

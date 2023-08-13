@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:one_body/app/dashboard.dart';
+import 'package:one_body/app/tasks.dart';
+
+import '../templates.dart';
 class Login extends StatefulWidget {
   const Login({super.key});
 
@@ -6,9 +10,9 @@ class Login extends StatefulWidget {
   State<Login> createState() => _LoginState();
 }
 
-Color? red = Colors.red;
-Color? purple = Colors.purple;
+
 bool nationalNumberScreen = true;
+
 TextEditingController username = TextEditingController();
 TextEditingController password = TextEditingController();
 TextEditingController nationalNumber = TextEditingController();
@@ -67,7 +71,10 @@ class _LoginState extends State<Login> {
                                   height: 50,
                                   width: 100,
                                   child: ElevatedButton(
-                                      onPressed: (){},
+                                      onPressed: (){
+                                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> const Dashboard()));
+                                        print(tasksCompleted);
+                                      },
                                       child: const Text(
                                         "Verify"
                                       )
