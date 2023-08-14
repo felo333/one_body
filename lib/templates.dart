@@ -21,7 +21,7 @@ class MyDrawer extends StatelessWidget {
       child: ListView(
         children:  <Widget>[
           DrawerHeader(
-            decoration: BoxDecoration(color: red),
+            decoration: BoxDecoration(color: purple),
             padding: const EdgeInsets.all(10),
             child: const Column(
               mainAxisAlignment: MainAxisAlignment.start,
@@ -93,7 +93,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget{
     return AppBar(
       title:  Text(title,style: const TextStyle(fontSize: 25,color: Colors.black),
       ),
-      backgroundColor: Colors.white,
+      backgroundColor: purple,
       iconTheme: const IconThemeData(
         color: Colors.black,//change color on your need
       ),
