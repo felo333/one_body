@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:one_body/app/tasks.dart';
 import 'package:one_body/templates.dart';
 import 'package:percent_indicator/percent_indicator.dart';
-List<String> tasks = ["تحضير الدرس  ننازتنزتنزنزنزنا","Missing the Students"];
+List<String> tasks = ["Preparing the lesson","Missing the Students"];
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});

@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core:
   percent_indicator:
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -63,6 +64,13 @@ flutter:
   assets:
      - assets/299462305_435178308669535_5630311463326450620_n.jpeg
      - assets/download.png
+     - assets/holyBible.jpeg
+     - assets/360.jpeg
+     - assets/christ.jpeg
+     - assets/church.jpg
+     - assets/moses.jpeg
+     - assets/TheGoodShepherd.jpeg
+     - assets/WhatsApp Image 2023-08-15 at 5.41.28 PM.jpeg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

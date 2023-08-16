@@ -9,6 +9,8 @@ import 'app/dashboard.dart';
 
 Color? red = Colors.red;
 Color? purple = Colors.purple;
+Color? grey = Colors.grey[400];
+
 dynamic title = "One Body";
 
 class MyDrawer extends StatelessWidget {
